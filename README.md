@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=meetpatel.live&style=for-the-badge&url=http%3A%2F%2Fmeetpatel.live)](http://meetpatel.live/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/kuchbhimeet?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMeetPatel&screen_name=kuchbhimeet)
 
-## I'm a Student and Developer!
+## I'm a Student and Full Stack Developer!
 
 - 🔭 I’m currently working on a website named [9to9veggie.in][liveProject]!
 - 🌱 I’m currently learning everything I wanted to learn.
@@ -17,7 +17,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Meet Patel | meetpatel.live" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Meet Patel | meetpatel.live" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" target="_new" />][website]
 [<img align="left" alt="Meet Patel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Meet Patel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Meet Patel | Snapchat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/snapchat.svg" />][snapchat]
@@ -65,6 +65,7 @@
 
 - [Sales Record (Dec'19 to Mar'20)](https://github.com/meetxpress/SalesRecord-v1.0.0.git)
 - [TicTac-The Game (May'20 to May'20)](https://github.com/meetxpress/Tic_Tac_Toe.git)
+- [9to9veggie.in (Jul'20 to Present)][liveProject]
 
 ---
 

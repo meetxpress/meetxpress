@@ -64,7 +64,7 @@
 ### ⚙️ Projects
 
 - [Sales Record (Dec'19 to Mar'20)](https://github.com/meetxpress/SalesRecord-v1.0.0.git)
-- [TicTac- The Game (May'20 to May'20)](https://github.com/meetxpress/Tic_Tac_Toe.git)
+- [TicTac-The Game (May'20 to May'20)](https://github.com/meetxpress/Tic_Tac_Toe.git)
 
 ---
 

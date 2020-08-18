@@ -70,7 +70,7 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-  <img align="left" alt="Meet Patel's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=meetxpress&show_icons=true&hide_border=true" />
+  <img align="left" alt="Meet Patel's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=meetxpress&show_icons=true&hide_border=false" />
 </details>
 
 [website]: http://meetpatel.live/

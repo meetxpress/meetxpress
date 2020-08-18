@@ -43,9 +43,7 @@
 
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/microsoft-word/microsoft-word.png" />
-
 <img align="left" alt="Firefox" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firefox/firefox.png" />
 <img align="left" alt="Google Search" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -67,7 +65,7 @@
 ### Projects
 
 - [Sales Record](https://github.com/meetxpress/SalesRecord-v1.0.0.git)
-- [TicTac- The Game](https://github.com/meetxpress/Tic_Tac_Toe.git)(http://meetxpress.000webhostapp.com/assets/Tic%20Tac%20Toe.apk)
+- [TicTac- The Game](https://github.com/meetxpress/Tic_Tac_Toe.git)
 
 ---
 

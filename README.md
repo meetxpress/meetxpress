@@ -10,8 +10,11 @@
 - 🥅 2020 Goals: Learn things which I want to learn and gain my knowledge.
 - ⚡ Fun fact: I love to design tattoos and illustration.
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+# Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/meetxpress/count.svg)
+
+<!-- ### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
 
 ---
 
@@ -71,7 +74,7 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-  <img align="left" alt="Meet Patel's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=meetxpress&show_icons=true&hide_border=false" />
+  <img align="left" alt="Meet Patel's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=meetxpress&show_icons=true&hide_border=false&theme=radical" />
 </details>
 
 [website]: http://meetpatel.live/

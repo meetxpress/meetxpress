@@ -1,4 +1,4 @@
-### Hi there, I'm [Meet Patel][website] 👋
+# Hi there, I'm [Meet Patel][website] 👋
 
 [![Website](https://img.shields.io/website?label=meetpatel.live&style=for-the-badge&url=http%3A%2F%2Fmeetpatel.live)](http://meetpatel.live/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/kuchbhimeet?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMeetPatel&screen_name=kuchbhimeet)
@@ -10,8 +10,8 @@
 - 🥅 2020 Goals: Learn things which I want to learn and gain my knowledge.
 - ⚡ Fun fact: I love to design tattoos and illustration.
 
-# Visitor Count
-[!(https://profile-counter.glitch.me/meetxpress/count.svg)]
+### Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/meetxpress/count.svg)
 
 <!-- ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->

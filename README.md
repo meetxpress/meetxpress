@@ -86,3 +86,4 @@
 [instagram]: https://instagram.com/meetxpress
 [linkedin]: https://linkedin.com/in/meetxpress
 [snapchat]: https://snapchat.com/add/m_mv99
+[medium]: https://medium.com/@pmeet7895

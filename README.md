@@ -77,7 +77,7 @@
 
 <details>
   <summary>:zap: Github Stats</summary>  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetxpress&hide_langs_below=1&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424"/> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetxpress&hide_langs_below=1&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&theme=radical/> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=meetxpress&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=000000"/>
 </details>
 

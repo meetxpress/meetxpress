@@ -69,13 +69,10 @@
 
 ---
 
-<details>
   <summary>:zap: Github Stats</summary>  
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetxpress&hide_langs_below=1&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424"/>
   <img align="left" alt="Meet Patel's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=meetxpress&show_icons=true&hide_border=false&theme=radical" />
  
- 
-</details>
 
 [website]: http://meetpatel.live/
 [liveProject]: http://9to9veggie.in/

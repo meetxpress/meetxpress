@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on a website named [9to9veggie.in][liveProject]!
 - 🌱 I’m currently learning everything I wanted to learn.
-- 🥅 2020 Goals: Learn things which I want to learn and gain my knowledge.
+- 🥅 2020 Goals: Learn things which I want to learn and gain my knowledge and contribute in open source projects.
 - ⚡ Fun fact: I love to design tattoos and illustration.
 ---
 ### Visitor Count

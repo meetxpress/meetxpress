@@ -1,4 +1,4 @@
-[![image](https://user-images.githubusercontent.com/55292853/90651791-13c80b80-e25b-11ea-89f9-e012484242ba.png)](http://www.meetpatel.live/index)
+[![image](https://user-images.githubusercontent.com/55292853/90651791-13c80b80-e25b-11ea-89f9-e012484242ba.png)](http://www.meetpatel.live/)
 
 <!-- *header title replaced by image*
 # Hi there, I'm [Meet Patel][website] 👋

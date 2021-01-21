@@ -7,10 +7,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/kuchbhimeet?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMeetPatel&screen_name=kuchbhimeete)
 
 ## I'm a Student and Full Stack Developer!
-
-- 🔭 I’m currently working on a website named [9to9veggie.in][liveProject]!
-- 🌱 I’m currently learning everything I wanted to learn.
-- 🥅 2020 Goals: Learn things which I want to learn and gain my knowledge and contribute in open source projects.
 - ⚡ Fun fact: I love to design tattoos and illustration.
 ---
 ### Visitor Count
@@ -61,13 +57,13 @@
 
 ---
 
+<!--
 ### ⚙️ Projects
 
 - [Sales Record (Dec'19 to Mar'20)](https://github.com/meetxpress/SalesRecord-v1.0.0.git)
 - [TicTac-The Game (May'20 to May'20)](https://github.com/meetxpress/Tic_Tac_Toe.git)
 - [9to9veggie.in (Jul'20 to Present)][liveProject]
-
----
+-->
 
   <summary>:zap: Github Stats</summary>  
   <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetxpress&hide_langs_below=1&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424"/>-->

@@ -18,6 +18,7 @@
 [<img align="left" src="https://img.icons8.com/fluent/44/000000/snapchat.png" alt="Meet Patel | Snapchat" target="_new" />][snapchat]
 [<img align="left" src="https://img.icons8.com/fluent/44/000000/twitter.png" alt="Meet Patel | Twitter" target="_new" />][twitter]
 <br/>
+<br/>
 
 ---
 ### 📕 Blog Posts

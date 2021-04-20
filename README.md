@@ -1,6 +1,6 @@
-[![image](https://user-images.githubusercontent.com/55292853/90651791-13c80b80-e25b-11ea-89f9-e012484242ba.png)](http://www.meetpatel.live/)
+[![image](https://user-images.githubusercontent.com/55292853/90651791-13c80b80-e25b-11ea-89f9-e012484242ba.png)](https://meetxpress.tech/)
 
-[![Website](https://img.shields.io/website?label=meetpatel.live&style=for-the-badge&url=http%3A%2F%2Fmeetpatel.live)](http://meetpatel.live/)
+[![Website](https://img.shields.io/website?label=meetpatel.live&style=for-the-badge&url=http%3A%2F%2Fmeetpatel.live)](https://meetxpress.tech/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/kuchbhimeet?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMeetPatel&screen_name=kuchbhimeete)
 
 ## I'm a Student and Full Stack Developer!
@@ -41,7 +41,7 @@
   <img align="left" alt="Meet Patel's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=meetxpress&show_icons=true&hide_border=false&theme=radical" />
  
 
-[website]: http://meetpatel.live/
+[website]: https://meetxpress.tech/
 [liveProject]: http://9to9veggie.in/
 [twitter]: https://twitter.com/kuchbhimeet
 [instagram]: https://instagram.com/meetxpress

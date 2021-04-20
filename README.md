@@ -1,6 +1,6 @@
 [![image](https://user-images.githubusercontent.com/55292853/90651791-13c80b80-e25b-11ea-89f9-e012484242ba.png)](https://meetxpress.tech/)
 
-[![Website](https://img.shields.io/website?label=meetpatel.live&style=for-the-badge&url=http%3A%2F%2Fmeetpatel.live)](https://meetxpress.tech/)
+[![Website](https://img.shields.io/website?label=meetxpress.tech&style=for-the-badge&url=http%3A%2F%2Fmeetxpress.tech)](https://meetxpress.tech/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/kuchbhimeet?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMeetPatel&screen_name=kuchbhimeete)
 
 ## I'm a Student and Full Stack Developer!
@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" src="https://img.icons8.com/fluent/44/000000/domain.png" alt="Meet Patel | meetpatel.live" target="_new" />][website]
+[<img align="left" src="https://img.icons8.com/fluent/44/000000/domain.png" alt="Meet Patel | meetxpress.tech" target="_new" />][website]
 [<img align="left" src="https://img.icons8.com/fluent/44/000000/linkedin.png" alt="Meet Patel | LinkedIn" target="_new" />][linkedin]
 [<img align="left" src="https://img.icons8.com/fluent/44/000000/instagram-new.png" alt="Meet Patel | Instagram" target="_new" />][instagram]
 [<img align="left" src="https://img.icons8.com/fluent/44/000000/snapchat.png" alt="Meet Patel | Snapchat" target="_new" />][snapchat]

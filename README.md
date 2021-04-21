@@ -1,7 +1,7 @@
 [![image](https://user-images.githubusercontent.com/55292853/90651791-13c80b80-e25b-11ea-89f9-e012484242ba.png)](https://meetxpress.tech/)
 
 [![Website](https://img.shields.io/website?label=meetxpress.tech&style=for-the-badge&url=http%3A%2F%2Fmeetxpress.tech)](https://meetxpress.tech/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/kuchbhimeet?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMeetPatel&screen_name=kuchbhimeete)
+<!--[![Twitter Follow](https://img.shields.io/twitter/follow/kuchbhimeet?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMeetPatel&screen_name=kuchbhimeete)-->
 
 ### I'm a Student and Full Stack Developer. I like to code, design tattoos and illustration.
 ---

@@ -8,18 +8,7 @@
 ### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/meetxpress/count.svg)
 ---
-
-<!--
-### ⚙️ Projects
-
-- [Sales Record (Dec'19 to Mar'20)](https://github.com/meetxpress/SalesRecord-v1.0.0.git)
-- [TicTac-The Game (May'20 to May'20)](https://github.com/meetxpress/Tic_Tac_Toe.git)
-- [9to9veggie.in (Jul'20 to Present)][liveProject]
--->
-
-  <summary>:zap: Github Stats</summary>  
-  <img align="left" alt="Meet Patel's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=meetxpress&show_icons=true&hide_border=false&theme=radical" />
- 
+<img align="left" alt="Meet Patel's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=meetxpress&show_icons=true&hide_border=false&theme=radical" />
 
 [website]: https://meetxpress.tech/
 [liveProject]: http://9to9veggie.in/

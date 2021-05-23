@@ -9,8 +9,6 @@
 <!--![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=meetxpress&theme=github_dark)
 
 <img align="left" alt="Meet Patel's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=meetxpress&show_icons=true&hide_border=false&theme=radical"/>
-
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 -->
 [website]: https://meetxpress.tech/
 <!--[liveProject]: http://9to9veggie.in/
